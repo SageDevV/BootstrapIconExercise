@@ -1,0 +1,32 @@
+.container{
+    background-color: silver;
+    border: 2px dashed black;
+}
+.bi-apple{
+    font-size: 200%;
+    color: blueviolet;
+}
+.bi-alarm-fill{
+    font-size: 200%;
+    color: blue;
+}
+.bi-archive-fill{
+    font-size: 200%;
+    color: brown;
+}
+.col-12{
+    margin: 3px;
+    padding: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.archive{
+    border: 2px solid brown;
+}
+.apple{
+    border: 2px solid blueviolet
+}
+.alarm{
+    border: 2px solid blue;
+}
